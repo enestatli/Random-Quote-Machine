@@ -15,7 +15,7 @@ body {
 }
 
 .quoteWindow {
-  border: 2px solid red;
+  border: 2px solid black;
   padding: 40px 50px;
   width: 450px;
 }
