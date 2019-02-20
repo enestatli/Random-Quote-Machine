@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css?family=Sarabun");
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  font: 16px/1.5 "Sarabun", sans-serif;
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.quoteWindow {
+  border: 2px solid red;
+  padding: 40px 50px;
+  width: 450px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.quoteWindow p {
+  text-align: right;
+}
+
+.buttons {
+  margin-top: 15px;
+}
+
+.quoteWindow .quoter {
+  float: right;
+}
